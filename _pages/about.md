@@ -17,42 +17,65 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Luna Wang (王露莹) is currently a student in Central South University (CSU).
+I am currently in my third year persuing a Master's degree in Central South University (CSU) under the supervision of Prof. Anfeng Liu. And I aspire to continue my academic journey by pursuing a doctoral degree. Before that, I received my B.Eng. degree from CSU in 2021.
+My research interest includes but not limited to Edge AI, blockchain, Fintech and AI+healthcare.
+<!-- a student in Central South University (CSU), preparing .
+I am currently pursuing a Master's degree and preparing myself to further my academic journey by pursuing a doctoral degree.
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
+# 📖 Educations
+- *2021.09 - 2024.06 (now)*, M.Eng., Central South University (CSU), Changsha, China (Supervisor: Prof. Anfeng Liu). 
+- *2017.09 - 2021.06*, B.Sc., Central South University (CSU), Changsha, China. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11*: &nbsp;🎉🎉 Grateful for Xiaomi Scholarship in CSU (top 10 among undergraduates and graduates). 
+- *2023.10*: &nbsp;🎉🎉 Awarded **National Scholarship**, China's highest academic honor (**Top 1%**).
+- *2023.9*: &nbsp;🎉🎉 Awarded First-Class Academic Scholarship.
+- *2023.9*: &nbsp;🎉🎉 One paper has been accepted by Future Generation Computer Systems (FGCS).
+- *2023.8*: &nbsp;🎉🎉 Successfully completed my summer internship at WeBank.
+- *2023.6*: &nbsp;🎉🎉 One paper has been accepted by Digital Communications and Networks (DCAN).
+- *2023.6*: &nbsp;🎉🎉 Granted approval for the Graduate Innovation Project issued by the Hunan Provincial Department of Education.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FGCS</div><img src='paper1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[SD-SRF: An Intelligent Service Deployment Scheme for Serverless-operated Cloud-Edge Computing in 6G Networks](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2300359X?via%3Dihub)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Luying Wang**, Anfeng Liu, Neal N. Xiong, Shaobo Zhang, Tian Wang, Mianxiong Dong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*Future Generation Computer Systems* (FGCS, JCR-Q1/中科院1区/IF=7.5)
+
+- Considering the geographical distribution for user requesting, formulate service deployment strategies for both offline and online.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- paper 2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DCAN</div><img src='paper2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[An Intelligent Active Probing and Trace-back Scheme for IoT Anomaly Detection](https://www.sciencedirect.com/science/article/pii/S235286482300113X?via%3Dihub)
+
+**Luying Wang**, Lingyi Chen, Neal N. Xiong, Anfeng Liu, Tian Wang et al.
+
+*Digital Communications and Networks* (DCAN, JCR-Q1/IF=7.9)
+
+- In IoT network, develop active probing and trace-back mechanisms, utilize crowdsourcing to collect data, thus identifying anomalous nodes at a lower cost.
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.10* National Scholarship.
+- *2023.09* First-Class Academic Scholarship.
+- *2023.06* The Graduate Innovation Project issued by the Hunan Provincial Department of Education.
+- *2021.06* Outstanding Graduate.
+- *2019.12* Excellent Student Leader.
+- *2019.01* Excellent Student.
+- *2019.05* Students' Innovation and Entrepreneurship Project.
+- *2018.12* National Encouragement Scholarship.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.09*, HUAWEI, China.
+- *2023.06 - 2023.08*, WeiBank, China.

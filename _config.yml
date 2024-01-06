@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Luna Wang (王露莹)"
-description              : "Central South University (CSU), Changsha, China. "
+description              : "I'm currently a third-year master student. "
 repository               : "cslunawang/cslunawang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Luna Wang (王露莹)"
-  avatar           : "images/my.img"
+  avatar           : "images/my2.jpg"
   bio              : "Central South University (CSU)"
   location         : "Changsha, China"
   employer         :
