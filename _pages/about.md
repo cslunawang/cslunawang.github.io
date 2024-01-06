@@ -49,7 +49,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 *Future Generation Computer Systems* (FGCS, JCR-Q1/中科院1区/IF=7.5)
 
-- Considering the geographical distribution for user requesting, formulate service deployment strategies for both offline and online.
+- Considering the geographical distribution for user requesting, formulate service deployment strategies for both offline and online in the edge network.
 </div>
 </div>
 
@@ -85,3 +85,6 @@ My research interest includes neural machine translation and computer vision. I 
 # 💻 Internships
 - *2023.09*, HUAWEI, China.
 - *2023.06 - 2023.08*, WeiBank, China.
+
+# 🧙 Others
+- I also like music and sports. In my spare time, I like to listen to all types of music, especially rock and country music, and I feel especially happy when I listen to music! I insist on going for a run every day, which is a great way to relax my eyes and lift my spirits while helping me maintain a healthy body. In addition, I like to try all kinds of new things and get joy by challenging myself.
