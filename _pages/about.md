@@ -67,18 +67,18 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-# 📝 Patents
-- A Hybrid Approach for Black Hole Nodes Detection (一种自组织传感网络中基于主动探测与回溯相结合的黑洞节点探测方法),
+# Patents
+- <p>A Hybrid Approach for Black Hole Nodes Detection (一种自组织传感网络中基于主动探测与回溯相结合的黑洞节点探测方法),
 
 Luying Wang, Anfeng Liu, 
 
-Application Number: 2022109254243, Application Date: 2022-08-03, Public Date: 2022-11-04
+Application Number: 2022109254243, Application Date: 2022-08-03, Public Date: 2022-11-04</p>
 
-- A Multi-Layer Service Optimization Deployment Method (一种基于云-边计算网络中的多层服务优化部署方法),
+- <p>A Multi-Layer Service Optimization Deployment Method (一种基于云-边计算网络中的多层服务优化部署方法),
 
 Luying Wang, Anfeng Liu, 
 
-Application Number: 2022116293149, Application Date: 2022-12-19, Public Date: 2023-04-11
+Application Number: 2022116293149, Application Date: 2022-12-19, Public Date: 2023-04-11</p>
 
 # 🎖 Honors and Awards
 - *2023.10* National Scholarship.
