@@ -84,7 +84,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 Internships
 - *2023.09*, HUAWEI, China.
-- *2023.06 - 2023.08*, WeiBank, China.
+- *2023.06 - 2023.08*, WeBank, China.
 
 # 🧙 Others
-- I also like music and sports. In my spare time, I like to listen to all types of music, especially rock and country music, and I feel especially happy when I listen to music! I insist on going for a run every day, which is a great way to relax my eyes and lift my spirits while helping me maintain a healthy body. In addition, I like to try all kinds of new things and get joy by challenging myself.
+- I also like music and sports. In my spare time, I like to listen to all types of music, especially rock and country music, because I feel especially energetic and active while listening to music! 
+- I insist on going for a run or the gym every day, which is essential to relax my eyes and lift my spirits because I've always believed that the body is the capital of the revolution! 
+- In addition, I like to try all kinds of new things and get joy by challenging myself.
