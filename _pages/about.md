@@ -49,7 +49,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 *Future Generation Computer Systems* (FGCS, JCR-Q1/中科院1区/IF=7.5)
 
-- Considering the geographical distribution for user requesting, formulate service deployment strategies for both offline and online in the edge network.
+- A scheme that supports dynamically updated and distributed deployment of cloud-edge-end resources is designed, formulating an efficient microservice deployment system for multilayer edge networks.
+- Technical approaches such as Reinforcement Learning-based Proximal Policy Optimization (PPO) are utilized to significantly improve the time efficiency and resource utilization of service deployment.
 </div>
 </div>
 
@@ -63,7 +64,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 *Digital Communications and Networks* (DCAN, JCR-Q1/IF=7.9)
 
-- In IoT network, develop active probing and trace-back mechanisms, utilize crowdsourcing to collect data, thus identifying anomalous nodes at a lower cost.
+- A novel anomaly detection and trusted sensing scheme for IoT terminals has been developed, which supports the whole process of data collection, active detection, trace-back and trust evaluation.
+- Unsupervised anomaly data detection, achieved by aggregating nodes and recruiting various types of trusted mobile edge users, has notably decreased the time and recruitment expenses associated with anomaly detection tasks in IoT networks.
 </div>
 </div>
 
