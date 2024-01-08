@@ -40,14 +40,14 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 <!-- paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FGCS</div><img src='images/paper1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FGCS</div><img src='images/paper1-v2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SD-SRF: An Intelligent Service Deployment Scheme for Serverless-operated Cloud-Edge Computing in 6G Networks](https://www.sciencedirect.com/science/article/abs/pii/S0167739X2300359X?via%3Dihub)
 
 **Luying Wang**, Anfeng Liu, Neal N. Xiong, Shaobo Zhang, Tian Wang, Mianxiong Dong
 
-*Future Generation Computer Systems* (FGCS, JCR-Q1/中科院1区/IF=7.5)
+*Future Generation Computer Systems* (FGCS, JCRgit-Q1/中科院1区/IF=7.5)
 
 - Considering the geographical distribution for user requesting, formulate service deployment strategies for both offline and online in the edge network.
 </div>
