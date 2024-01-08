@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently in my third year persuing a Master's degree in Central South University (CSU) under the supervision of Prof. Anfeng Liu. Now I aspire to continue my academic journey by pursuing a doctoral degree. Before that, I received my B.Eng. degree from CSU in 2021.
 
-My research interest includes but not limited to **Edge AI**, **blockchain**, **Fintech** and **AI+healthcare**.
+My research interest includes but not limited to **Edge AI**, **Resource management**, **Fintech** and **AI+healthcare**.
 <!-- a student in Central South University (CSU), preparing .
 I am currently pursuing a Master's degree and preparing myself to further my academic journey by pursuing a doctoral degree.
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -47,7 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Luying Wang**, Anfeng Liu, Neal N. Xiong, Shaobo Zhang, Tian Wang, Mianxiong Dong
 
-*Future Generation Computer Systems* (FGCS, JCRgit-Q1/中科院1区/IF=7.5)
+*Future Generation Computer Systems* (FGCS, JCR-Q1/中科院1区/IF=7.5)
 
 - Considering the geographical distribution for user requesting, formulate service deployment strategies for both offline and online in the edge network.
 </div>
