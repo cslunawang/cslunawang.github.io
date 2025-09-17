@@ -92,5 +92,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.06 - 2023.08*, WeBank, China.
 
 # 🧙 Others
-- My MBTI is ENFP. So it's obvious that I need to go out to do sports🏃🏋️🧗, make friends🧑‍🤝‍🧑, hang out🏬 and have some dilicious dishes😋😁. - I also like music. In my spare time, I like to listen to music, play a little drum or guita. Live cannot live without music! 
+- My MBTI is ENFP. So it's obvious that I need to go out to do sports🏃🏋️🧗, make friends🧑‍🤝‍🧑, hang out🏬 and have some dilicious dishes😋😁. 
+- I also like music. In my spare time, I like to listen to music, play a little drum or guita. Live cannot live without music! 
 - If you share similar interests, feel free to reach out! I'm always happy to connect and exchange ideas, whether about life or academic pursuits.
