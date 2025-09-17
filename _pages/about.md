@@ -17,18 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently in my third year persuing a Master's degree in Central South University (CSU) under the supervision of Prof. Anfeng Liu. Now I aspire to continue my academic journey by pursuing a doctoral degree. Before that, I received my B.Eng. degree from CSU in 2021.
+I am currently in my first year persuing a PhD's degree in City University of Hong Kong (CityUHK) under the supervision of Prof. Weifa Liang. Prior to that, I received my B.Eng.(21') and M.E.(24') both in Central South University (CSU).
 
-My research interest includes but not limited to **Edge AI**, **Resource management**, **Blockchain**, **Fintech** and **AI+healthcare**.
+My research interest includes but not limited to **Edge AI**, **Resource management**, **Digital Twin** and **Reinforcement Learning**.
 <!-- a student in Central South University (CSU), preparing .
 I am currently pursuing a Master's degree and preparing myself to further my academic journey by pursuing a doctoral degree.
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, M.E., Central South University (CSU), Changsha, China (Supervisor: Prof. Anfeng Liu). 
+- *2025.08 - now*, persuing PhD, City University of Hong Kong (CityUHK), Hong Kong, China (Supervisor: Prof. Weifa Liang). 
+- *2021.09 - 2024.06*, M.E., Central South University (CSU), Changsha, China (Supervisor: Prof. Anfeng Liu). 
 - *2017.09 - 2021.06*, B.E., Central South University (CSU), Changsha, China. 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 One paper has been published by **IEEE Transactions on Services Computing (TSC)**.
 - *2023.11*: &nbsp;🎉🎉 Grateful for Xiaomi Scholarship in CSU (top 10 among undergraduates and graduates). 
 - *2023.10*: &nbsp;🎉🎉 Awarded **National Scholarship**, China's highest academic honor (**Top 1%**).
 - *2023.09*: &nbsp;🎉🎉 Awarded First-Class Academic Scholarship.
@@ -84,11 +86,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.05* Students' Innovation and Entrepreneurship Project.
 - *2018.12* National Encouragement Scholarship.
 
-# 💻 Internships
+# 💻 Internships and Work Experience
+- *2024.07 - 2025.07*, WeBank, China.
 - *2023.09*, HUAWEI, China.
 - *2023.06 - 2023.08*, WeBank, China.
 
 # 🧙 Others
-- I also like music and sports. In my spare time, I like to listen to all types of music, especially rock and country music, because I feel especially energetic and active while listening to music! 
-- I insist on going for a run or the gym every day, which is essential to relax my eyes and lift my spirits because I've always believed that the body is the capital of the revolution! 
-- In addition, I like to try all kinds of new things and get joy by challenging myself.
+- My MBTI is ENFP. So it's obvious that I need to go out to do sports🏃🏋️🧗, make friends🧑‍🤝‍🧑, hang out🏬 and have some dilicious dishes😋😁. - I also like music. In my spare time, I like to listen to music, play a little drum or guita. Live cannot live without music! 
+- If you share similar interests, feel free to reach out! I'm always happy to connect and exchange ideas, whether about life or academic pursuits.
