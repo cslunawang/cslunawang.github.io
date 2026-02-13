@@ -30,9 +30,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2017.09 - 2021.06*, B.E., Central South University (CSU), Changsha, China. 
 
 # 📝 Reviewer Experience
-- *TCOM* | IEEE Transactions on Communications
-- *JSA* | Journal Of System Architecture
-- *PMC* | Pervasive and Mobile Computing
+- *TCOM* \| IEEE Transactions on Communications
+- *JSA* \| Journal Of System Architecture
+- *PMC* \| Pervasive and Mobile Computing
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 One paper has been published by **IEEE Transactions on Services Computing (TSC)**.
