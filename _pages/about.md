@@ -29,6 +29,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09 - 2024.06*, M.E., Central South University (CSU), Changsha, China (Supervisor: Prof. Anfeng Liu). 
 - *2017.09 - 2021.06*, B.E., Central South University (CSU), Changsha, China. 
 
+# 📝 Reviewer Experience
+- *TCOM* | IEEE Transactions on Communications
+- *JSA* | Journal Of System Architecture
+- *PMC* | Pervasive and Mobile Computing
+
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 One paper has been published by **IEEE Transactions on Services Computing (TSC)**.
 - *2023.11*: &nbsp;🎉🎉 Grateful for Xiaomi Scholarship in CSU (top 10 among undergraduates and graduates). 
@@ -92,6 +97,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.06 - 2023.08*, WeBank, China.
 
 # 🧙 Others
-- My MBTI is ENFP. So it's obvious that I need to go out to do sports🏃🏋️🧗, make friends🧑‍🤝‍🧑, hang out🏬 and have some dilicious dishes😋😁. 
-- I also like music. In my spare time, I like to listen to music, play a little drum or guita. Live cannot live without music! 
+- My MBTI is ENFP. I like to go out to do sports🏃🏋️🧗, make friends🧑‍🤝‍🧑, hang out🏬 and have some delicious dishes😋😁. 
+- I also enjoy music. In my spare time, I would like to listen to music, play a little drum or guita. Live cannot live without music! 
 - If you share similar interests, feel free to reach out! I'm always happy to connect and exchange ideas, whether about life or academic pursuits.
